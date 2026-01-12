@@ -2,17 +2,23 @@
 
 Welcome! This repository contains files and artifacts related to my role on the Londonderry [Budget Committee](https://londonderrynh.gov/324/Budget-Committee). This page and repository will be updated through the FY27 and following budget cycles.
 
-## Town Budget
+## FY27 Town Budget
 
 The FY27 budget season is currently in progress. Departments have made budget presentations and requests, and these proposals are being reviewed leading up to the Deliberative Session and Election.
 
 ### Budget Analysis
 
-Please see the file [Town of Londonderry FY27 Budget Analysis.2026-01-05.xlsm](https://github.com/plzm/londonderry/raw/refs/heads/main/town/Town%20of%20Londonderry%20FY27%20Budget%20Analysis.2026-01-05.xlsm) in the "town" folder.
+Please see the file [Town of Londonderry FY27 Budget Analysis.2026-01-05.xlsm](https://github.com/plzm/londonderry/raw/refs/heads/main/town/Town%20of%20Londonderry%20FY27%20Budget%20Analysis.2026-01-05.xlsm) in the **town** folder.
 
 ==========
 
-&rarr; **IMPORTANT NOTE WHICH YOU SHOULD REALLY READ**: _Other than the town-provided raw data which I imported into this file, all tabs, formulas, macro code, and other changes and additions to this file were created by me. The Town of Londonderry does NOT endorse or take any responsibility for the contents of this file. Before you base any decisions or statements on the contents of this file, you should double-check all data, formulas, and calculations, and I recommend that if you want to use this data in any public setting, you first contact either me or the Town Finance Department to verify the accuracy of this data and your statement(s)._
+&rarr; **IMPORTANT NOTE WHICH YOU SHOULD REALLY READ**:
+
+_Other than the town-provided raw data which I imported into this file, all tabs, formulas, macro code, and other changes and additions to this file were created by me._
+
+_The Town of Londonderry does NOT endorse or take any responsibility for this file, or anything in this repository. Before you base any decisions or statements on anything you find here, you should double-check all data, formulas, and calculations._
+
+_I recommend that if you want to use this data in any public setting, you first contact either me or the Town Finance Department to verify the accuracy of this data and statement(s) based on it._
 
 ==========
 
