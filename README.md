@@ -8,7 +8,7 @@ The FY27 budget season is currently in progress. Departments have made budget pr
 
 ### Budget Analysis
 
-Please see the file "Town of Londonderry FY27 Budget Analysis.2026-01-05.xlsm" in the "town" folder.
+Please see the file [Town of Londonderry FY27 Budget Analysis.2026-01-05.xlsm](https://github.com/plzm/londonderry/raw/refs/heads/main/town/Town%20of%20Londonderry%20FY27%20Budget%20Analysis.2026-01-05.xlsm) in the "town" folder.
 
 ==========
 
