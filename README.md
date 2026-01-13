@@ -16,19 +16,19 @@ Please see the file [Town of Londonderry FY27 Budget Analysis.2026-01-05.xlsm](h
 
 _Other than the town-provided raw data which I imported into this file, all tabs, formulas, macro code, and other changes and additions to this file were created by me._
 
-_The Town of Londonderry does NOT endorse or take any responsibility for this file, or anything in this repository. Before you base any decisions or statements on anything you find here, you should double-check all data, formulas, and calculations._
+_The Town of Londonderry does NOT endorse or take any responsibility for this file or anything in this repository. Before you base any decisions or statements on anything you find here, you should double-check all data, formulas, and calculations._
 
-_I recommend that if you want to use this data in any public setting, you first contact either me or the Town Finance Department to verify the accuracy of this data and statement(s) based on it._
+_I recommend that if you want to use anything here in a public setting, you first verify the accuracy of this data, e.g. by contacting the Town Finance Department or me._
 
 ==========
 
-This is a macro-enabled Microsoft Excel file. You can download and open it on your computer. You will be prompted that macro functionality has been disable. You do NOT need to enable this functionality in order to use this spreadsheet. The macro functionality is only used when importing raw data provided by the Town Finance Department.
+This is a macro-enabled Microsoft Excel file. You can download and open it on your computer. You will be prompted that macro functionality has been disabled. You do NOT need to enable this functionality in order to use this spreadsheet. The macro functionality is only used when doing initial consolidation and processing of raw data provided by the Town Finance Department.
 
 ![Excel warning that Macros have been disabled](images/excel-macro-disabled.png "excel-macro-disabled.png")
 
 **File Contents**
 
-- A set of tabs with per-department budget proposals. These are named "nn - Department Name - FY 2027" where "nn" is the department number. This data was provided by the Town Finance Department in raw (Excel) form on January 6, 2026, and imported into this file using the above-referenced macros which I wrote for this purpose.
+- A set of tabs with per-department budget proposals, named "nn - Department Name - FY 2027" where "nn" is the department number. This data was provided by the Town Finance Department in raw (Excel) form on January 6, 2026. The data was copied into this Excel file, then prepared using the above-referenced macros which I wrote for this purpose.
 - A "CPI" tab. This contains Consumer Price Index data from the U.S. Bureau of Labor Statistics. The tab includes source links and screenshots for this data.
 - A "Discretionaries" tab. This is a list of all the accounts I found in the town source data. I added a "Discretionary" column, and labeled each account as discretionary or not (TRUE/FALSE). I used my judgment for which accounts are not discretionary (e.g., salaries, benefits, debt service, etc.) and which are (e.g., office supplies, travel, training, etc.). The discretionary flag is used in my analysis of which departments and lines exceed either the four-year town budget change trend or the four-year CPI trend; only discretionary accounts are considered in that analysis.
 - A "Consolidated Lines" tab. This is created by the macros I wrote. It consolidates all department budget line items onto a single tab, harmonizes the layout so that every budget line item is complete, and removes the visual hierarchies and subtotals used in the source data. The intent here was to bring all the data together to enable cross-departmental and cross-period (fiscal years) analysis by amount and percent.
